@@ -1,0 +1,27 @@
+lenovo test_double_optimization10 c20
+lenovo test_double_optimization9 c17.5
+lenovo test_double_optimization8 c15
+lenovo test_double_optimization7 c12.5
+lenovo test_double_optimization6 c10
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization17\data\iteration_convergence_150.xlsx c7.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization16\data\iteration_convergence_150.xlsx c5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization15\data\iteration_convergence_150.xlsx c2.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization14\data\iteration_convergence_150.xlsx 1
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization13\data\iteration_convergence_150.xlsx 2.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization12\data\iteration_convergence_150.xlsx 5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization11\data\iteration_convergence_150.xlsx 7.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization10\data\iteration_convergence_150.xlsx 10
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization9\data\iteration_convergence_150.xlsx 12.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization3\data\iteration_convergence_150.xlsx 15
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization5\data\iteration_convergence_150.xlsx 17.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization\data\iteration_convergence_150.xlsx 20
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6\data\iteration_convergence_150.xlsx 22.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6\data\iteration_convergence_150.xlsx 25
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6\data\iteration_convergence_150.xlsx 27.5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization2\data\iteration_convergence_150.xlsx 30
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization4\data\iteration_convergence_150.xlsx 35
+lenovo test_double_optimization 32.5
+lenovo test_double_optimization2 37.5
+lenovo test_double_optimization3 40
+lenovo test_double_optimization4 42.5
+lenovo test_double_optimization5 45
