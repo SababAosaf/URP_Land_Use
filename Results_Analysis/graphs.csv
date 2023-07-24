@@ -1,0 +1,16 @@
+Algorithm,ResidentialCommercialOffice,,,Mixed Use
+SBX+Mu 60% Best Compatibility,877,134,152,180
+SBX+Mu 60% Largest Crowding,872,138,151,182
+SBX+Mu 60% Best Price,872,128,155,188
+SBX+Mu 80% Best Compatibility,872,128,167,176
+SBX+Mu 80% Largest Crowding,873,127,166,177
+SBX+Mu 80% Best Price,869,130,168,176
+SBX+Mu 100% Best Compatibility,897,122,99,225
+SBX+Mu 100% Largest Crowding Distance,872,137,147,187
+SBX+Mu 100% Best Price,870,117,180,176
+CR+DES 40% LC Best Compatibility,941,137,84,181
+CR+DES 40% LC Largest Crowding Distance,929,125,101,188
+CR+DES 40% LC Best Price,918,133,104,188
+CR+DES 40% COA Best Compatibility,957,131,73,182
+CR+DES 40% COA Largest Crowding Distance,927,124,100,192
+CR+DES 40% COA Best Price,914,120,120,189
