@@ -1,0 +1,322 @@
+Mutation + SBX NSGAII: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1
+C version : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (2)
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+40% version : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (3)
+60% version D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (5) - Copy\config (rerun)
+80 version D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (5) - Copy - Copy
+100 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (5) - Copy - Copy - Copy
+
+		Constraints on area not plot count
+
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (2)
+
+		Constraints on area and 20% plot change at a time
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 - Copy (5)\config
+
+
+
+
+
+
+
+
+
+
+
+####################
+
+
+
+
+
+
+
+
+
+
+
+
+RNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns - Copy
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns2
+60 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns2 - Copy (2)
+80 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns2 - Copy (3)
+100 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns2 - Copy (3) - Copy
+				Constraints on area not plot count
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns5
+
+
+		Constraints on area and 20% plot change at a time
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\rns55
+
+
+
+
+
+
+
+
+
+
+
+############################
+
+
+
+
+
+
+
+
+
+
+
+
+____-__________________
+DD:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-masteation-master_DE\data\test_7 - Copy
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_7 - Copy - Copy\config
+
+
+				Constraints on area and 20% plot change at a time
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\config
+_______________________
+
+
+
+
+
+
+
+
+######################
+
+
+
+
+
+
+
+
+
+RMNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy\config
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (2)\config
+60 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (3)\config
+80 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (3) - Copy\config
+100 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (3) - Copy - Copy\config
+
+				Constraints on area not plot count
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (5)\config (STUCK on first)
+
+			Constraints on area and 20% plot change at a time
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 - Copy (6)\config
+
+
+
+
+
+
+
+
+
+
+##################$$##$###$$
+
+
+
+
+
+
+
+
+
+
+
+
+RMCN : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 - Copy\config
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 - Copy (2)\config
+60 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 - Copy (2) - Copy\config
+80 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 - Copy (2) - Copy - Copy\config
+
+			Constraints on area not plot count
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 - Copy (3)\config (STUCK on first)
+
+
+
+
+
+
+
+
+
+#############################
+
+
+
+
+
+
+
+
+
+
+
+CR+DES : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (2)
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (2) - Copy
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (3) - Copy
+		
+
+
+	Constraints on area not plot count
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (4) - Copy  (STUCK on first)
+
+
+		Constraints on area and 20% plot change at a time
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (5) - Copy
+
+
+
+
+
+
+
+
+#############################
+
+
+
+
+
+
+
+
+
+
+
+CR+DE : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (2)
+60 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (2) - Copy
+80 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (3) - Copy
+100 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (3) - Copy - Copy
+			Constraints on area not plot count
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (3) (STUCK ON FIRST)
+
+		Constraints on area and 20% plot change at a time
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy - Copy (4)
+
+
+
+
+
+
+
+
+
+
+#############################
+
+
+
+
+
+
+
+
+
+
+
+
+UCR-NS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_2
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_2 - Copy : price nc
+
+		Constraints on area and 20% plot change at a time
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\ucr\config
+
+
+
+
+
+#######$##$###############$##$
+
+
+
+
+
+
+
+
+
+
+SMO NS: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_3
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_3 - Copy : price nc
+
+
+
+
+
+
+
+
+
+
+
+###########################
+
+
+
+
+
+
+
+
+
+
+
+SOA Best :D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6 - Copy
+
+		given Constraints on land use percentage constant plot 				percentage for genetic operator
+
+40 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-mater-objective\data\test_double_optimization6 - Copy (2)
+			Constraints on area not plot count
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6 - Copy (3) (stuck on first)
+
+
+		Constraints on area and 20% plot change at a time
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data\test_double_optimization6 - Copy (5)
+
+
+
+
+
+
+
+
+

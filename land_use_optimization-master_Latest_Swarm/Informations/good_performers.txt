@@ -1,0 +1,18 @@
+Mutation + SBX NSGAII: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1
+
+RNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data
+
+MSBX-MO-1 : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_7\config\data
+
+MSBX-MO-1 : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_8\config\data
+
+RMNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5
+
+RMCN : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7
+
+CR+DES : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy (2)
+
+CR+DE : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_c - Copy - Copy - Copy
+
+
+

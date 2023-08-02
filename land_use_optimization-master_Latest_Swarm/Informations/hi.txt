@@ -1,0 +1,11 @@
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_3 ,SMO+NS 
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_2 ,UCR-NS 
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_1 ,Mutation+SBX  NSGA II 
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5 ,RMNS (Random Child/Mutation only NSGA II)
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_6 ,SMO+NS 
+
+
+D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7 ,SMO+NS 
+
+
+

@@ -1,0 +1,9 @@
+RNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data
+Check With: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_RNS_Contraint
+
+
+RMNS : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_5
+Check With: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\RMNS_contraint\data
+
+RMCN : D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\test_7
+Check with: D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master\data\RMCN_Constraint\data
