@@ -15,9 +15,19 @@
 14 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_5 (CORRECT)
 15 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_6 (CORRECT)
 16 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_7 (CORRECT) (Walk)
+
 17 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_7 - Copy (CORRECT)
-18 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_8 (CORRECT)
-19 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_Latest_Swarm\data (CORRECT) (BIG TIME)
-20 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_Latest_Swarm\data\test_1 (CORRECT)
-21 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-basic\data (CORRECT) (big time)
+
+
+18 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_DE\data\test_8 (CORRECT)  (MSBX+MO)
+19 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_Latest_Swarm\data (CORRECT) (BIG TIME) (PSO+NS)
+20 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master_Latest_Swarm\data\test_1 (CORRECT) (PSO+NS 2)
+21 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-basic\data (CORRECT) (big time) (NSGAII 2018)
 22 D:\Projects\Msc_Research\URP_Land_Use\land_use_optimization-master-objective\data ()
+
+
+MORE:
+D:\Projects\Msc_Research\URP_Land_Use2\land_use_optimization-master_DE\data\test_6 - Copy\config (DEMO Original)
+D:\Projects\Msc_Research\URP_Land_Use2\land_use_optimization-master_DE\data\test_1 - Copy\config (DEVPMO)
+D:\Projects\Msc_Research\URP_Land_Use2\land_use_optimization-master_DE\data\test_adaptive - Copy\config (jade)
+
